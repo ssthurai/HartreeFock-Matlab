@@ -1,2 +1,2 @@
 # HartreeFock
-Hartree Fock calculation using python
+Hartree Fock calculation using Matlab
