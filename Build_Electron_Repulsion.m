@@ -6,7 +6,7 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: ss <ss@ss>
+## Author: 
 ## Created: 2020-07-10
 
 function gabcd = Build_Electron_Repulsion(basis)
